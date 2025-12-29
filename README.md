@@ -42,7 +42,7 @@ Los siguientes indicadores reflejan el **volumen de información procesada** y s
 Estos valores no representan el desempeño de una empresa real, sino el **alcance del análisis desarrollado**.
 
 ---
-## 📊 Indicadores y visualizaciones
+## Indicadores y visualizaciones
 El dashboard incluye:
 
 - **KPIs:**
@@ -69,7 +69,7 @@ A partir de los indicadores construidos, se identifican los siguientes criterios
 Este análisis evidencia el uso del dashboard como **herramienta de apoyo a la gestión contable diaria**.
 
 ---
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 - Microsoft Excel
 - Tablas dinámicas
 - Gráficos dinámicos
@@ -77,11 +77,11 @@ Este análisis evidencia el uso del dashboard como **herramienta de apoyo a la g
 
 ---
 
-## 📷 Vista previa del dashboard
+## Vista previa del dashboard
 ![Dashboard](dashboard.png)
 
 ---
 
-## 📝 Nota final
+## Nota final
 Proyecto desarrollado con fines **formativos y profesionales**, replicando procesos reales de **cuentas por pagar**.  
 El énfasis está en la **capacidad analítica, el criterio contable y el diseño de herramientas de control**
