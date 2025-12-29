@@ -6,7 +6,7 @@ El foco del proyecto está en el **diseño del modelo de control, la selección 
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 Diseñar un **dashboard ejecutivo en Excel** que permita:
 - Visualizar el estado de las cuentas por pagar
 - Analizar el avance de pagos
@@ -16,7 +16,7 @@ Diseñar un **dashboard ejecutivo en Excel** que permita:
 
 ---
 
-## 🧠 Aporte desarrollado
+## Aporte desarrollado
 En este proyecto realicé las siguientes actividades:
 
 - Estructuración y limpieza de información de **facturación, pagos y proveedores**
@@ -29,7 +29,7 @@ El valor del proyecto radica en el **modelo de análisis y control construido**,
 
 ---
 
-## 📈 Alcance del análisis (volumen trabajado)
+## Alcance del análisis (volumen trabajado)
 Los siguientes datos reflejan el **volumen de información procesada** y los **indicadores construidos** dentro del dashboard:
 
 - **90 facturas analizadas**
@@ -43,7 +43,7 @@ Estos valores sirven como **evidencia cuantitativa del análisis realizado**, no
 
 ---
 
-## 📊 Indicadores y visualizaciones
+## Indicadores y visualizaciones
 El dashboard incluye:
 
 - KPIs:
@@ -60,7 +60,7 @@ El dashboard incluye:
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 - Microsoft Excel
 - Tablas dinámicas
 - Gráficos dinámicos
@@ -69,7 +69,7 @@ El dashboard incluye:
 
 ---
 
-## 📷 Vista previa del dashboard
+##  Vista previa del dashboard
 ![Dashboard](dashboard.png)
 
 ---
